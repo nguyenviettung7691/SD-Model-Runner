@@ -1,5 +1,5 @@
 # SD-Model-Runner
-1. Initialize SD Web UI
-2. Mount Google Drive
-3. Load SD Models
-4. Run web to use SD model
+
+1. Mount Google Drive
+2. Load SD Models
+3. Run web to use SD model
