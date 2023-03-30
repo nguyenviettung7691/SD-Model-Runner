@@ -1,7 +1,10 @@
 # SD-Model-Runner
 
 1. Mount Google Drive
-2. Load SD Models
-3. Run web to use SD model
+2. Copy SD Models
+3. Init SD Web UI
+4. Copy SD ControlNet
+5. Cleanup install files
+6. Run SD Web UI
 
 - Support SD model file type: Safetensor
