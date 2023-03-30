@@ -1,4 +1,4 @@
-# SD-Model-Runner
+# StableDiffusion-Model-Runner
 
 1. Mount Google Drive
 2. Copy SD Models
